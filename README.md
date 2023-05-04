@@ -1,7 +1,7 @@
 <p align="center"> Hi there 👋</p>
 
 <h1 align="center">i learned css, take a look at my result<h1>
-<h2 align="center">https://cv.rafvpn.biz.id/</h2>
+<h2 align="center">https://iamraf-github-io.pages.dev/</h2>
 
 
 
