@@ -9,4 +9,5 @@
 
   <h1>About Me</h1>
   <h2>https://me.iamraf.my.id/</h2>
+<p align="center"><img src="https://profile-counter.glitch.me/{GMDP-Developers}/count.svg" alt="neoxr :: Visitor's Count" /></p>
 </div>
